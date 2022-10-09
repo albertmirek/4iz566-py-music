@@ -4,3 +4,7 @@ https://www.kaggle.com/datasets/vicsuperman/prediction-of-music-genre?resource=d
 
 ## Prerequirements
 - Python v 3.9
+
+## Setup
+- To install all packages at once use: \
+<code>conda install --file dependencies.yml</code>
