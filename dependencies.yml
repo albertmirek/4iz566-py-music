@@ -6,3 +6,4 @@ scikit-image
 pandas
 matplotlib
 jupyter
+seaborn
